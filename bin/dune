@@ -1,4 +1,4 @@
 (executables
  (names day_1 day_2)
  (public_names day_1 day_2)
- (libraries adventofcode_2025))
+ (libraries adventofcode_2025 batteries))
